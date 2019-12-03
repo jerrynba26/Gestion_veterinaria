@@ -1,0 +1,4 @@
+URL:
+-----------
+http://veterinaria.website/       --> ECOMMERCE
+http://veterinaria.website/login  --> ADMINISTRADOR
